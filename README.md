@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samyak87
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning REACT
+- 🌱 I’m a REACT developer currently looking for opportunities
 
 
 <!---
