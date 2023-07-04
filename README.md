@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samyak87
-- 👀 I’m interested in Web Development
+- 👀 A programmer and a Web Developer
 - 🌱 I’m a REACT developer currently looking for opportunities
 
 
