@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samyak87
 - 👀 A programmer and a Web Developer
-- 🌱 I’m a REACT developer currently looking for opportunities
+- 🌱 I’m a MERN developer currently looking for opportunities
 
 
 <!---
